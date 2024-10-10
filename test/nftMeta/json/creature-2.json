@@ -1,0 +1,20 @@
+{
+    "description": "Bluish creature. Very durable and tanky.",
+    "image": "https://coral-decisive-egret-758.mypinata.cloud/ipfs/QmbTp4n88Yjj931Gg4qz4LYLuCSdQwCv6sn5u8fzs16KsB",
+    "name": "Eincode Creature #1",
+    "attributes": [
+      {
+        "trait_type": "attack",
+        "value": "60"
+      },
+      {
+        "trait_type": "health",
+        "value": "50"
+      },
+      {
+        "trait_type": "speed",
+        "value": "70"
+      }
+    ]
+  }
+  
